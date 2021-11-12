@@ -11,6 +11,5 @@ func Demo2(x int) int {
 }
 
 func Version() {
-	fmt.Println("actual str")
-	fmt.Println("Version 1.1.0")
+	fmt.Println("Version 2.0.1")
 }
